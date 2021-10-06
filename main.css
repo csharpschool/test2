@@ -1,0 +1,29 @@
+body{
+    background-color: honeydew;
+}
+
+p{
+    color: green;
+    font-size: 2rem;
+    border: 1px solid rgba(145, 106, 62, 0.637);
+}
+
+article p{
+    font-size: .75rem;
+    text-align: right;
+}
+
+nav { background-color: hotpink;}
+
+a {
+    text-decoration: none;
+    background-color: turquoise;
+}
+
+nav ul > li a {
+    color: #FFF;
+}
+
+li.text-color{
+    color: #FFF;
+}
